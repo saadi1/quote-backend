@@ -87,7 +87,7 @@ public class Quote {
         int quote = 0;
         if (score > 800)
             quote = 30;
-        else if (score > 600)
+        else if (score > 601)
             quote = 50;
         else if (score > 400)
             quote = 70;
